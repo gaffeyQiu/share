@@ -1,5 +1,5 @@
 ## 开始
-入口函数 main
+### 入口函数 main
 
 ```go
 package main
@@ -9,8 +9,7 @@ func main() {
 }
 ```
 
-初始化顺序
-
+### 特殊的 init 函数
 ```go
 package main
 
@@ -23,4 +22,6 @@ func main() {
 }
 ```
 
-![img.png](img/img.png)
+初始化顺序：
+![img.png](img/img1.png)
+

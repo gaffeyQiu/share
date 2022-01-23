@@ -7,6 +7,7 @@ import (
 var x string = "a"
 
 func main() {
+
 	fmt.Printf("The x is %v\n", x)
 
 	var x int
